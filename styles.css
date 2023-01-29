@@ -1,0 +1,43 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+ background-color:#F0F0F0;
+}
+header  {
+  text-align: center;
+  padding: 2rem;
+  border-radius:2px;
+  background-color:#F0F0F0;
+}
+header h1 {
+  font-size: 3rem;
+}
+figcaption  {
+  padding: 0.5rem 0.2rem 0.5rem 2.8rem;
+}
+#tribute-info {
+  margin:0 13rem;
+  
+}
+#tribute-info h3  {
+  text-align: center;
+  padding:3rem 0rem;
+}
+#tribute-info ul {
+  padding: 0rem 0rem 2rem 0rem;
+}
+#tribute-info ul li {
+  padding:0.5rem 1.5rem;
+}
+blockquote p {
+  padding: 0rem 0rem 1rem 0rem;
+  font-style: italic;
+}
+blockquote   {
+  padding: 0rem 0rem 3rem 0rem;
+  
+}
+footer {
+  text-align: center;
+}
